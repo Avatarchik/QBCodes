@@ -1,2 +1,2 @@
-# QBCodes-OpenCV
-SnapCodes
+## QBCodes
+
