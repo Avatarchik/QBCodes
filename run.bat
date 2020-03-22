@@ -1,1 +1,0 @@
-SET DEBUG=code-generator-cv-app:* & npm start
