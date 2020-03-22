@@ -1,0 +1,14 @@
+(Key, Value) Pairs only.
+
+1971918024, https://cloud_store.aws.in/bcodes_images/raw/bcodes_images_1971918024.bmp
+1855813524, https://cloud_store.aws.in/bcodes_images/raw/bcodes_images_1855813524.bmp
+2047569850, https://cloud_store.aws.in/bcodes_images/raw/bcodes_images_2047569850.bmp
+877819939, https://cloud_store.aws.in/bcodes_images/raw/bcodes_images_877819939.bmp
+1609048496, https://cloud_store.aws.in/bcodes_images/raw/bcodes_images_1609048496.bmp
+559003877, https://cloud_store.aws.in/bcodes_images/raw/bcodes_images_559003877.bmp
+247004254, https://cloud_store.aws.in/bcodes_images/raw/bcodes_images_247004254.bmp
+1526438324, https://cloud_store.aws.in/bcodes_images/raw/bcodes_images_1526438324.bmp
+1867843166, https://cloud_store.aws.in/bcodes_images/raw/bcodes_images_1867843166.bmp
+2110271962, https://cloud_store.aws.in/bcodes_images/raw/bcodes_images_2110271962.bmp
+909427419, https://cloud_store.aws.in/bcodes_images/raw/bcodes_images_909427419.bmp
+2126195160, https://cloud_store.aws.in/bcodes_images/raw/bcodes_images_2126195160.bmp
